@@ -1,7 +1,7 @@
 # MachineLearning_EmissionModel
 A surrogate emission rate model for MOVES
 
-Traffic simulations were excuted using real-world based road network of the City of Columbia in SC.
+Traffic simulations were excuted using SUMO with real-world based road network of the City of Columbia in SC.
 
 Emission data were obtained by running MOVES 2014b with fine-granualarity input.
 ## Datasets:
