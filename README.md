@@ -6,7 +6,7 @@ Traffic simulations were excuted using SUMO with real-world based road network o
 Emission data were obtained by running MOVES 2014b with fine-granualarity input.
 ## Datasets:
 ModelInput_urbanstreet.csv: Contains samples of urban street traffic patterns and emission data from MOVES
-ModelInput_urbanstreet.csv: Contains samples of urban street traffic patterns and emission data from MOVES
+ModelInput_highwaycsv: Contains samples of highway traffic patterns and emission data from MOVES
 
 The traffic data are the link level aggregated values of the vehicle trajectories generated using SUMO based on Columbia city in SC.
 
