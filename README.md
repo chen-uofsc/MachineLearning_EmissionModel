@@ -13,4 +13,4 @@ The traffic data are the link level aggregated values of the vehicle trajectorie
 ## Notebook:
 Contains code for training models, testing models, and randomforest model for testing feature importance.
 
-Notebook is incorporated with Google Colab and can be run using Colab GPUs.
+Notebook is incorporated with Google Colab and can be run using Colab GPUs..
